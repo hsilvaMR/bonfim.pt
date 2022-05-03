@@ -1,0 +1,78 @@
+@import (reference) "variables/main";
+@import (reference) "mixins/main";
+
+.welcome-panel {
+    .widget-heading {
+        background: @primary-background;
+        border: none;
+        color: @primary-dark;
+        text-transform: none;
+
+        // "x" icon for dismissing panel
+        .group-header-indicator {
+            color: @icon;
+
+            &:hover,
+            &:active,
+            &:focus {
+                color: @icon-active;
+            }
+        }
+    }
+
+    .panel-body {
+        width: 100%;
+    }
+
+    .title {
+        font-size: 1.4em;
+        font-weight: 600;
+        margin-bottom: 32px;
+    }
+
+    .welcome-img,
+    .group-header,
+    .description {
+        display: none;
+    }
+
+    .flex-row {
+        justify-content: center;
+        padding: 0;
+        text-align: center;
+    }
+
+    .flex-item {
+        flex-direction: column;
+        align-items: center;
+        max-width: none;
+    }
+
+    .itemTextWrapper {
+        text-align: center;
+        max-width: 300px;
+    }
+
+    .icon-email_accounts {
+        .welcome-icon("email.svg");
+    }
+
+    .icon-wp-toolkit,
+    .icon-site_publisher {
+        .welcome-icon("website.svg");
+    }
+}
+
+.welcome-icon(@img) {
+    background-image: url("img/@{img}");
+    background-size: contain;
+    background-position: initial;
+    width: 80px;
+    height: 80px;
+    margin-bottom: 10px;
+
+    @media (max-width: @screen-xs-max) {
+        width: 60px;
+        height: 60px;
+    }
+}

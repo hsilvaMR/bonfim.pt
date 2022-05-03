@@ -1,0 +1,143 @@
+--- 
+files: 
+  certificate: 
+    255dobonfim_pt_a539c_48b3d_1652831999_27c958b23000b16cd63b6d3a266b9510: 
+      created: '1644973563'
+      domains: 
+        - 255dobonfim.pt
+        - cpanel.255dobonfim.pt
+        - cpcalendars.255dobonfim.pt
+        - cpcontacts.255dobonfim.pt
+        - mail.255dobonfim.pt
+        - webdisk.255dobonfim.pt
+        - webmail.255dobonfim.pt
+        - www.255dobonfim.pt
+      ecdsa_curve_name: ~
+      ecdsa_public: ~
+      friendly_name: Cert for “255dobonfim.pt”
+      id: 255dobonfim_pt_a539c_48b3d_1652831999_27c958b23000b16cd63b6d3a266b9510
+      is_self_signed: 0
+      issuer.commonName: cPanel, Inc. Certification Authority
+      issuer.organizationName: cPanel, Inc.
+      key_algorithm: rsaEncryption
+      modulus: a539cb4257585610b220a05baaf80686b0abda941cc12785c433fa226619f885b658beed617e11fe71c4cbe2198b0b298ce444f8b1934ef63f1832c4b02f5a5ee4169807aa479391f0b8b2e37bb3a2cac936afe1e768f8f1e7dac5716b506fd05deb2af47838ba1636d0f64bd65f6d715cef9bb547c7f3e4409875ca2a1fbc671ae3dbaaf15b817bd959b6384b807b7576896b25c3d94cf6d08213407b956de0f84f53868405c81d3fba7d92b86595195fa4f40a0a9523204225588210a3b297ce5b4564e9a2df5496569533adf6054dea56b0a094b778a5965567098eb0f35774678600a7e2b4686854e3375d3c7e2f21777b3104b41ef13fdcf1e9a3348b3d
+      modulus_length: 2048
+      not_after: '1652831999'
+      not_before: '1644969600'
+      serial: 79e48135257ef55e57124e859378aa4e
+      signature_algorithm: sha256WithRSAEncryption
+      subject.commonName: 255dobonfim.pt
+      validation_type: dv
+    255dobonfim_pt_d7d61_552af_1646092799_672181b2c72c6cd31e65e1fb21028621: 
+      created: '1638234424'
+      domains: 
+        - 255dobonfim.pt
+        - cpanel.255dobonfim.pt
+        - cpcalendars.255dobonfim.pt
+        - cpcontacts.255dobonfim.pt
+        - mail.255dobonfim.pt
+        - webdisk.255dobonfim.pt
+        - webmail.255dobonfim.pt
+        - www.255dobonfim.pt
+      ecdsa_curve_name: ~
+      ecdsa_public: ~
+      friendly_name: Cert for “255dobonfim.pt” 1638234424.0
+      id: 255dobonfim_pt_d7d61_552af_1646092799_672181b2c72c6cd31e65e1fb21028621
+      is_self_signed: 0
+      issuer.commonName: cPanel, Inc. Certification Authority
+      issuer.organizationName: cPanel, Inc.
+      key_algorithm: rsaEncryption
+      modulus: d7d6100ffbaa80dc0aaafa650407ff5969b2afb8bb4eb7a00e5a9623934faa4ca8ad0d98d3eb09cd093c130324ac8033502c730f3f6e5f20d41adfa0b2517ba2192e45989e1c109323a8323d4cab69e4ff7c413b662b5f89157f8961ad6203d7a6d927b04650d6a38a1dfc5c221775a135f6e5de91bfae308b200427af3715d1dcd40f4021c41ce8166adf6f58b5c1e811e1cf1d8469f2ca1ecbbaba5edf6811479b0ce17c17c4d93f792f9bd050041592001d45ddfb63728863377206868fe2460d3dcd89974f614961f3205b16af6021e3c9f81eb32edeadeeb7e48523366f69ed259379f34af25a54ac1cabdb08d8798f8eb088fe0cd738a5e399a62552af
+      modulus_length: 2048
+      not_after: '1646092799'
+      not_before: '1638230400'
+      serial: 996adfa42d696e3cfa78f1c552dff7cc
+      signature_algorithm: sha256WithRSAEncryption
+      subject.commonName: 255dobonfim.pt
+      validation_type: dv
+    insae_pt_b11c2_e5225_1641574210_2433a06b0f35255063a71a87dc341f11: 
+      created: '1610038210'
+      domains: 
+        - insae.pt
+        - mail.insae.pt
+        - www.insae.pt
+        - cpanel.insae.pt
+        - webmail.insae.pt
+        - webdisk.insae.pt
+        - cpcontacts.insae.pt
+        - cpcalendars.insae.pt
+        - autodiscover.insae.pt
+      ecdsa_curve_name: ~
+      ecdsa_public: ~
+      friendly_name: Cert for “insae.pt”
+      id: insae_pt_b11c2_e5225_1641574210_2433a06b0f35255063a71a87dc341f11
+      is_self_signed: 1
+      issuer.commonName: insae.pt
+      issuer.organizationName: ~
+      key_algorithm: rsaEncryption
+      modulus: b11c26d16eeca7841954bd7e2bb1b6bc81f233ea00eac3f667ef77fbb2f7570c85d0f8d73f98db029ad719197385836f2003e54f96016884d7c86d8122a4d0a93c0700ddf5370246ae462e14529acee4fb2ed8fd46e03fe16940861113213457dc877ee64d9231c8f68afa2b78cbd4ded3549d08b30b0e44ff1d8d2a86f408520fd7bec05f37b89441ce703d53244c1a7a86a1855ab03a508c8ee40bfb3d3eeb2816378637e0c9b13fd94b6672b3a44c4b24d3df9601ea04e67f632f57cc7304d23d3c60fdad8d3da252844c147ebde92e86a308ac87beb9f37457dab86bd05059caf8c89fe5f5a48960f6946a2a99b31319800d5c4a50ff33848e4886ce5225
+      modulus_length: 2048
+      not_after: '1641574210'
+      not_before: '1610038210'
+      serial: c6ec0590
+      signature_algorithm: sha256WithRSAEncryption
+      subject.commonName: insae.pt
+      validation_type: ~
+  key: 
+    a539c_48b3d_47a681ddccda570ba94526607a41d85e: 
+      created: '1644973563'
+      ecdsa_curve_name: ~
+      ecdsa_public: ~
+      friendly_name: Key for “255dobonfim.pt”
+      id: a539c_48b3d_47a681ddccda570ba94526607a41d85e
+      key_algorithm: rsaEncryption
+      modulus: a539cb4257585610b220a05baaf80686b0abda941cc12785c433fa226619f885b658beed617e11fe71c4cbe2198b0b298ce444f8b1934ef63f1832c4b02f5a5ee4169807aa479391f0b8b2e37bb3a2cac936afe1e768f8f1e7dac5716b506fd05deb2af47838ba1636d0f64bd65f6d715cef9bb547c7f3e4409875ca2a1fbc671ae3dbaaf15b817bd959b6384b807b7576896b25c3d94cf6d08213407b956de0f84f53868405c81d3fba7d92b86595195fa4f40a0a9523204225588210a3b297ce5b4564e9a2df5496569533adf6054dea56b0a094b778a5965567098eb0f35774678600a7e2b4686854e3375d3c7e2f21777b3104b41ef13fdcf1e9a3348b3d
+      modulus_length: 2048
+    b11c2_e5225_5eafce909b35d02b0cffbee59615c917: 
+      created: '1610038210'
+      ecdsa_curve_name: ~
+      ecdsa_public: ~
+      friendly_name: Key for “insae.pt”
+      id: b11c2_e5225_5eafce909b35d02b0cffbee59615c917
+      key_algorithm: rsaEncryption
+      modulus: b11c26d16eeca7841954bd7e2bb1b6bc81f233ea00eac3f667ef77fbb2f7570c85d0f8d73f98db029ad719197385836f2003e54f96016884d7c86d8122a4d0a93c0700ddf5370246ae462e14529acee4fb2ed8fd46e03fe16940861113213457dc877ee64d9231c8f68afa2b78cbd4ded3549d08b30b0e44ff1d8d2a86f408520fd7bec05f37b89441ce703d53244c1a7a86a1855ab03a508c8ee40bfb3d3eeb2816378637e0c9b13fd94b6672b3a44c4b24d3df9601ea04e67f632f57cc7304d23d3c60fdad8d3da252844c147ebde92e86a308ac87beb9f37457dab86bd05059caf8c89fe5f5a48960f6946a2a99b31319800d5c4a50ff33848e4886ce5225
+      modulus_length: 2048
+    d7d61_552af_9cec47e73aa1eefdc50289e2bd0d1055: 
+      created: '1638234424'
+      ecdsa_curve_name: ~
+      ecdsa_public: ~
+      friendly_name: Key for “255dobonfim.pt” 1638234424.0
+      id: d7d61_552af_9cec47e73aa1eefdc50289e2bd0d1055
+      key_algorithm: rsaEncryption
+      modulus: d7d6100ffbaa80dc0aaafa650407ff5969b2afb8bb4eb7a00e5a9623934faa4ca8ad0d98d3eb09cd093c130324ac8033502c730f3f6e5f20d41adfa0b2517ba2192e45989e1c109323a8323d4cab69e4ff7c413b662b5f89157f8961ad6203d7a6d927b04650d6a38a1dfc5c221775a135f6e5de91bfae308b200427af3715d1dcd40f4021c41ce8166adf6f58b5c1e811e1cf1d8469f2ca1ecbbaba5edf6811479b0ce17c17c4d93f792f9bd050041592001d45ddfb63728863377206868fe2460d3dcd89974f614961f3205b16af6021e3c9f81eb32edeadeeb7e48523366f69ed259379f34af25a54ac1cabdb08d8798f8eb088fe0cd738a5e399a62552af
+      modulus_length: 2048
+indexes: 
+  certificate: 
+    modulus: 
+      a539cb4257585610b220a05baaf80686b0abda941cc12785c433fa226619f885b658beed617e11fe71c4cbe2198b0b298ce444f8b1934ef63f1832c4b02f5a5ee4169807aa479391f0b8b2e37bb3a2cac936afe1e768f8f1e7dac5716b506fd05deb2af47838ba1636d0f64bd65f6d715cef9bb547c7f3e4409875ca2a1fbc671ae3dbaaf15b817bd959b6384b807b7576896b25c3d94cf6d08213407b956de0f84f53868405c81d3fba7d92b86595195fa4f40a0a9523204225588210a3b297ce5b4564e9a2df5496569533adf6054dea56b0a094b778a5965567098eb0f35774678600a7e2b4686854e3375d3c7e2f21777b3104b41ef13fdcf1e9a3348b3d: 
+        255dobonfim_pt_a539c_48b3d_1652831999_27c958b23000b16cd63b6d3a266b9510: ~
+      b11c26d16eeca7841954bd7e2bb1b6bc81f233ea00eac3f667ef77fbb2f7570c85d0f8d73f98db029ad719197385836f2003e54f96016884d7c86d8122a4d0a93c0700ddf5370246ae462e14529acee4fb2ed8fd46e03fe16940861113213457dc877ee64d9231c8f68afa2b78cbd4ded3549d08b30b0e44ff1d8d2a86f408520fd7bec05f37b89441ce703d53244c1a7a86a1855ab03a508c8ee40bfb3d3eeb2816378637e0c9b13fd94b6672b3a44c4b24d3df9601ea04e67f632f57cc7304d23d3c60fdad8d3da252844c147ebde92e86a308ac87beb9f37457dab86bd05059caf8c89fe5f5a48960f6946a2a99b31319800d5c4a50ff33848e4886ce5225: 
+        insae_pt_b11c2_e5225_1641574210_2433a06b0f35255063a71a87dc341f11: ~
+      d7d6100ffbaa80dc0aaafa650407ff5969b2afb8bb4eb7a00e5a9623934faa4ca8ad0d98d3eb09cd093c130324ac8033502c730f3f6e5f20d41adfa0b2517ba2192e45989e1c109323a8323d4cab69e4ff7c413b662b5f89157f8961ad6203d7a6d927b04650d6a38a1dfc5c221775a135f6e5de91bfae308b200427af3715d1dcd40f4021c41ce8166adf6f58b5c1e811e1cf1d8469f2ca1ecbbaba5edf6811479b0ce17c17c4d93f792f9bd050041592001d45ddfb63728863377206868fe2460d3dcd89974f614961f3205b16af6021e3c9f81eb32edeadeeb7e48523366f69ed259379f34af25a54ac1cabdb08d8798f8eb088fe0cd738a5e399a62552af: 
+        255dobonfim_pt_d7d61_552af_1646092799_672181b2c72c6cd31e65e1fb21028621: ~
+    subject.commonName: 
+      255dobonfim.pt: 
+        255dobonfim_pt_a539c_48b3d_1652831999_27c958b23000b16cd63b6d3a266b9510: ~
+        255dobonfim_pt_d7d61_552af_1646092799_672181b2c72c6cd31e65e1fb21028621: ~
+      insae.pt: 
+        insae_pt_b11c2_e5225_1641574210_2433a06b0f35255063a71a87dc341f11: ~
+uniques: 
+  certificate: 
+    friendly_name: 
+      Cert for “255dobonfim.pt”: 255dobonfim_pt_a539c_48b3d_1652831999_27c958b23000b16cd63b6d3a266b9510
+      Cert for “255dobonfim.pt” 1638234424.0: 255dobonfim_pt_d7d61_552af_1646092799_672181b2c72c6cd31e65e1fb21028621
+      Cert for “insae.pt”: insae_pt_b11c2_e5225_1641574210_2433a06b0f35255063a71a87dc341f11
+  key: 
+    friendly_name: 
+      Key for “255dobonfim.pt”: a539c_48b3d_47a681ddccda570ba94526607a41d85e
+      Key for “255dobonfim.pt” 1638234424.0: d7d61_552af_9cec47e73aa1eefdc50289e2bd0d1055
+      Key for “insae.pt”: b11c2_e5225_5eafce909b35d02b0cffbee59615c917
+    modulus:ecdsa_curve_name:ecdsa_public: 
+      a539cb4257585610b220a05baaf80686b0abda941cc12785c433fa226619f885b658beed617e11fe71c4cbe2198b0b298ce444f8b1934ef63f1832c4b02f5a5ee4169807aa479391f0b8b2e37bb3a2cac936afe1e768f8f1e7dac5716b506fd05deb2af47838ba1636d0f64bd65f6d715cef9bb547c7f3e4409875ca2a1fbc671ae3dbaaf15b817bd959b6384b807b7576896b25c3d94cf6d08213407b956de0f84f53868405c81d3fba7d92b86595195fa4f40a0a9523204225588210a3b297ce5b4564e9a2df5496569533adf6054dea56b0a094b778a5965567098eb0f35774678600a7e2b4686854e3375d3c7e2f21777b3104b41ef13fdcf1e9a3348b3d: a539c_48b3d_47a681ddccda570ba94526607a41d85e
+      b11c26d16eeca7841954bd7e2bb1b6bc81f233ea00eac3f667ef77fbb2f7570c85d0f8d73f98db029ad719197385836f2003e54f96016884d7c86d8122a4d0a93c0700ddf5370246ae462e14529acee4fb2ed8fd46e03fe16940861113213457dc877ee64d9231c8f68afa2b78cbd4ded3549d08b30b0e44ff1d8d2a86f408520fd7bec05f37b89441ce703d53244c1a7a86a1855ab03a508c8ee40bfb3d3eeb2816378637e0c9b13fd94b6672b3a44c4b24d3df9601ea04e67f632f57cc7304d23d3c60fdad8d3da252844c147ebde92e86a308ac87beb9f37457dab86bd05059caf8c89fe5f5a48960f6946a2a99b31319800d5c4a50ff33848e4886ce5225: b11c2_e5225_5eafce909b35d02b0cffbee59615c917
+      d7d6100ffbaa80dc0aaafa650407ff5969b2afb8bb4eb7a00e5a9623934faa4ca8ad0d98d3eb09cd093c130324ac8033502c730f3f6e5f20d41adfa0b2517ba2192e45989e1c109323a8323d4cab69e4ff7c413b662b5f89157f8961ad6203d7a6d927b04650d6a38a1dfc5c221775a135f6e5de91bfae308b200427af3715d1dcd40f4021c41ce8166adf6f58b5c1e811e1cf1d8469f2ca1ecbbaba5edf6811479b0ce17c17c4d93f792f9bd050041592001d45ddfb63728863377206868fe2460d3dcd89974f614961f3205b16af6021e3c9f81eb32edeadeeb7e48523366f69ed259379f34af25a54ac1cabdb08d8798f8eb088fe0cd738a5e399a62552af: d7d61_552af_9cec47e73aa1eefdc50289e2bd0d1055

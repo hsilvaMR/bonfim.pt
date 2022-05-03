@@ -1,0 +1,138 @@
+Return-Path: <>
+Delivered-To: mail@255dobonfim.pt
+Received: from hosting93.serverhs.org
+	by hosting93.serverhs.org with LMTP
+	id IHBqHg2fQGGPlAAAy80Hfw
+	(envelope-from <>)
+	for <mail@255dobonfim.pt>; Tue, 14 Sep 2021 14:09:33 +0100
+Return-path: <>
+Envelope-to: mail@255dobonfim.pt
+Delivery-date: Tue, 14 Sep 2021 14:09:33 +0100
+Received: from srv1.spambusters.email ([185.90.57.10]:35494)
+	by hosting93.serverhs.org with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+	(Exim 4.94.2)
+	id 1mQ8Bq-000AI4-9V
+	for mail@255dobonfim.pt; Tue, 14 Sep 2021 14:09:33 +0100
+Received: from hsmx06.antispameurope.com ([94.100.134.10] helo=mx-gate42-hz3.antispameurope.com)
+	by srv1.spambusters.email with esmtps (TLSv1.2:AES128-GCM-SHA256:128)
+	(Exim 4.92)
+	id 1mQ8Bl-00064R-EZ
+	for mail@255dobonfim.pt; Tue, 14 Sep 2021 14:09:33 +0100
+Date: Tue, 14 Sep 2021 15:09:27 +0200
+From: MAILER-DAEMON <MAILER-DAEMON@cloud-security.net>
+Subject: Undelivered Mail Returned to Sender
+To: mail@255dobonfim.pt
+Auto-Submitted: auto-replied
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="5177111E282.1374149209_antispameurope"
+X-cloud-security:Statusmail
+X-cloud-security:Orig-msgid:dea39f1ec6bab1b46285eb7fb8aa185b-bd7596296df5f364fe7a7c498456b856
+X-Sender-Warning: mx-gate42-hz3.antispameurope.com has no MX records
+X-SpamExperts-Class: ham
+X-SpamExperts-Evidence: Combined (0.15)
+X-Recommended-Action: accept
+X-Filter-ID: Mvzo4OR0dZXEDF/gcnlw0W71OTLWlF7FmL+4iqln3AypSDasLI4SayDByyq9LIhVUZbR67CQ7/vm
+ /hHDJU4RXkTNWdUk1Ol2OGx3IfrIJKywOmJyM1qr8uRnWBrbSAGDsxLLQVrYOp0jOr84xbCS/L6P
+ WKE3LlEPMZmUc3Ku9TAFDeM70ssSPHfIwl+8PQY+eJpLxjaPHE1A/OyZ+V+dxIPAgTtUp75uqlx0
+ KezvZHVuq31NHfvVwCZTJtCapnM6HP1biB2acx6iaEgqf7n2wSb1tBRHLNxGimcaGdiYwSmuDcTn
+ uv8ermWt62yWriHpAnjA4Z1ByBz9ZBrjLNRe6ZxezMpRwV9YR2Vj6mFNQIZ853QuSLxRwiinpm8+
+ NpxUYLQ9ZXMnd6gj7iy1Ad04IxlpsWfbL8gvI7bbRauIrfTXs2KsRjKrCowEavDwQuKoUXszB8pe
+ STNSHFICsWOe0RhncRP6vqb2Sa6RIApUKwpXgU9WZf9Roe3/x2xyr8PYWnUmqPvE55wHVzddSpu/
+ iyk4xAm9D8KTeKJT7gNACPeY+wXwBlAcaOqd+CBSDZd8b8B6COFh4fPVR5W26iwbzWiH1Wgh6RAe
+ nBR+licROGbHAympYGOFGGekzKxZflKXdaHGhhRyqhQQBJU//EzuzBsviJVw+xFXEggkgGE4r2+i
+ XOYL0Oy3n0CR1/MYmVPDwWoELGJVWJjLqJOEpxXFDHGtQd5+W77TRgX+6nJLu6UYpZv+s0hB962u
+ DZpnkJz/2YnWB+iwowsf4yqKd+HwZxYIA7j1FbE4x0ynSvXEQxrRZ4YizZEe9VMcrJA1Ttxdc0dO
+ XCwNCwMcWDeKVyoNRQxWFSzsWt2uE/YFyU00jIgJ2zaQPFMH6UNqD80xPXnw88Uh5kbjG+jdypLh
+ x+o+3i9pfkD8BhUqCTaLJTjjxjE62A9j7n7PaOt2rfg0okwuRrFZB4tys1dhe7g2EHKijI1k/Lro
+ 96dBmfaJg+CBu7k=
+X-Report-Abuse-To: spam@srv1.spambusters.email
+
+This is a MIME-encapsulated message.
+
+--5177111E282.1374149209_antispameurope
+Content-Description: Notification
+Content-Type: text/plain; charset=us-ascii
+
+This is the Mail-Delivery-Service.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients.
+For further assistance, please contact your Mailadmin.
+
+	From: mail@255dobonfim.pt
+	To: a.griffin@resoundhealth.co.uk
+	Subject:  0013/Russell Soden. SODEN CONSULTING - Re: Inter Agreement
+
+81.168.52.191[81.168.52.191] reply 421 cannot connect to host
+
+--5177111E282.1374149209_antispameurope
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; mx-gate42-hz3
+X-ASE-Secure-MTA-Queue-ID: dea39f1ec6bab1b46285eb7fb8aa185b-bd7596296df5f364fe7a7c498456b856
+X-ASE-Secure-MTA-Sender: rfc822; mail@255dobonfim.pt
+Arrival-Date: Tue, 14 Sep 2021 15:09:27 +0200
+
+Final-Recipient: rfc822; a.griffin@resoundhealth.co.uk
+Action: failed
+Status: 
+Diagnostic-Code: X-ASE-Secure-MTA; 421 cannot connect to host
+
+--5177111E282.1374149209_antispameurope
+Content-Description: Undelivered Message
+Content-Type: message/rfc822
+
+Received: from mcode.pt (185.90.56.112) by mx-gate42-hz3.hornetsecurity.com;
+ Tue, 07 Sep 2021 14:55:28 +0200
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed;
+	d=255dobonfim.pt; s=default; h=Date:MIME-Version:Content-Type:To:Subject:From
+	:Sender:Reply-To:Message-ID:Cc:Content-Transfer-Encoding:Content-ID:
+	Content-Description:Resent-Date:Resent-From:Resent-Sender:Resent-To:Resent-Cc
+	:Resent-Message-ID:In-Reply-To:References:List-Id:List-Help:List-Unsubscribe:
+	List-Subscribe:List-Post:List-Owner:List-Archive;
+	bh=3Bm30HTIVj3tI2+gxsXEsPik+g/7m4rRsk4NKa+H/to=; b=R65dw63f3dFX3IE68XwqZ3eWxj
+	CNIu0yNDoUoPJorX8YOS53M+h9tHJ7u7+hie5krxOIuFoGXDrC5wJgNt02852LglxcLpyinSE+Ers
+	QcKMV0gRHc5WYCBxBkRWPdr7BQscL7ci55RDJ4cs5sKNsKq2u3KE3lTjJ1wg9mPXOW4C7E0X4eLmv
+	yjFdl+adaNEB+PApO0lIdMvUzw0UOiJE+ueyhPUZMd+wnfovTzggTlNmXcyxs4j1TJ7Yi0mfaolCQ
+	+GdpAwA+gfMfq1I5nbWF8pd7p2pMYBA278lnDYBcXrsqwz/HmogI9qulWhPwKytuobCRd3x783kqK
+	KwKSfIEA==;
+Received: from ec2-54-170-57-125.eu-west-1.compute.amazonaws.com ([54.170.57.125]:50230 helo=WIN-UDUMMJ3CTVK)
+	by hosting7.serverhs.org with esmtpa (Exim 4.94.2)
+	(envelope-from <mail@255dobonfim.pt>)
+	id 1mNadC-00BNI0-Aa
+	for a.griffin@resoundhealth.co.uk; Tue, 07 Sep 2021 13:55:18 +0100
+From: "Russell Soden <russell@russellsodenconsulting.com>"
+ <mail@255dobonfim.pt>
+Subject:  0013/Russell Soden. SODEN CONSULTING - Re: Inter Agreement
+To: "a.griffin" <a.griffin@resoundhealth.co.uk>
+Content-Type: multipart/related; boundary="j0vkm91=_eVBJXnhUJKisdEemLPGtlQtLS"
+MIME-Version: 1.0
+Date: Tue, 7 Sep 2021 12:55:08 +0000
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - hosting7.serverhs.org
+X-AntiAbuse: Original Domain - resoundhealth.co.uk
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]
+X-AntiAbuse: Sender Address Domain - 255dobonfim.pt
+X-Get-Message-Sender-Via: hosting7.serverhs.org: authenticated_id: mail@255dobonfim.pt
+X-Authenticated-Sender: hosting7.serverhs.org: mail@255dobonfim.pt
+X-antispameurope-sender:mail@255dobonfim.pt
+X-antispameurope-recipient:a.griffin@resoundhealth.co.uk
+X-antispameurope-MSGID:affb63c4f9f284fe1634df15405b78bf-bd7596296df5f364fe7a7c498456b856
+X-antispameurope-body-digest:e5eb1941709deceb1fb462238a4bd0c0
+X-antispameurope-Virusscan:CLEAN
+X-antispameurope-SPFRESULT: PASS
+X-antispameurope-orig-ip:185.90.56.112
+X-antispameurope-orig-host:mcode.pt
+X-antispameurope-orig:82dbe5a400c32ebceb49133d09710611
+X-antispameurope-disclaimer: This E-Mail was scanned by www.antispameurope.com E-Mailservice on mx-gate42-hz3 with 0DA07DC3786
+X-antispameurope-date:1631019321
+X-antispameurope:INCOMING:
+X-antispameurope-Connect:mcode.pt[185.90.56.112],TLS=1;EMIG=0
+X-antispameurope-WC:8:221:4:57789:1:200:0:1:0:1:0:0:0:0:1:2:1:16:185:16:0:2:0:0:0:17:0:0:0:0:0:0:0:0::0:1:0:0:0:0:0
+X-antispameurope-Digest:cec6e625faf53fbee134287f6955a562
+X-antispameurope-Spamstatus:CLEAN
+X-antispameurope-REASON:NOREASON:HO-WL
+
+--5177111E282.1374149209_antispameurope--

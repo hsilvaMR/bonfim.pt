@@ -1,0 +1,122 @@
+Return-Path: <service@microsystems.in>
+Delivered-To: mail@255dobonfim.pt
+Received: from hosting93.serverhs.org
+	by hosting93.serverhs.org with LMTP
+	id uE/uDvQTHmLzRh0Ay80Hfw
+	(envelope-from <service@microsystems.in>)
+	for <mail@255dobonfim.pt>; Tue, 01 Mar 2022 12:39:16 +0000
+Return-path: <service@microsystems.in>
+Envelope-to: mail@255dobonfim.pt
+Delivery-date: Tue, 01 Mar 2022 12:39:16 +0000
+Received: from srv1.spambusters.email ([185.90.57.10]:37134)
+	by hosting93.serverhs.org with esmtps  (TLS1.3) tls TLS_AES_256_GCM_SHA384
+	(Exim 4.94.2)
+	(envelope-from <service@microsystems.in>)
+	id 1nP1mf-008JMk-RC
+	for mail@255dobonfim.pt; Tue, 01 Mar 2022 12:39:16 +0000
+Received: from mars.hosting360.co.in ([84.16.230.176])
+	by srv1.spambusters.email with esmtps (TLSv1.2:AES128-GCM-SHA256:128)
+	(Exim 4.92)
+	(envelope-from <service@microsystems.in>)
+	id 1nP1mZ-00015l-5t
+	for mail@255dobonfim.pt; Tue, 01 Mar 2022 12:39:16 +0000
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed;
+	d=microsystems.in; s=default; h=Content-Type:MIME-Version:Subject:To:Date:
+	From:Sender:Reply-To:Message-ID:Cc:Content-Transfer-Encoding:Content-ID:
+	Content-Description:Resent-Date:Resent-From:Resent-Sender:Resent-To:Resent-Cc
+	:Resent-Message-ID:In-Reply-To:References:List-Id:List-Help:List-Unsubscribe:
+	List-Subscribe:List-Post:List-Owner:List-Archive;
+	bh=RuxU5PMuozaSOPVHzTBqby9b/W7c1DBDYdSYO7zZxNU=; b=PhKCj2iOVbsZqJoQVEQBSTeaJO
+	6hpXx3WDgAGLnF79upwQtvrTxgAHNuUFp3MRBJKsbqru0pp1tjiKhgn2nnLI0MTu/NJcVqCdkJ3+q
+	uVGkNc6bnxed4vhP90qgDH6H4GbL8ycIahG3vdNkiW7XvVWNrwVCJYbYu5uXe5iLNLZt+nWqqacbU
+	NBdDh1enkTMvUCQPnwKoRZv2R0B+ypogqmsOk50E9veBDIzn9YnhoMKJSGUKDVG/5nPItFQ8cRo38
+	p9G9mXKh0lJxfUiP3a6UGdy2Ya434stMn4N2mafHyaLew8A7L4FiEb9xnC7RxsEKTyY5lYr2LE7sp
+	+1NcWYBw==;
+Received: from [80.77.153.66] (port=63265 helo=localhost)
+	by mars.hosting360.co.in with esmtpsa  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+	(Exim 4.94.2)
+	(envelope-from <service@microsystems.in>)
+	id 1nP1mW-0007YV-Uc
+	for mail@255dobonfim.pt; Tue, 01 Mar 2022 18:09:09 +0530
+From: <service@microsystems.in>
+Date: Tue, 01 Mar 2022 12:39:09 +0000
+To: mail@255dobonfim.pt
+Subject: =?UTF-8?B?UmU6IFNUQVRFTUVOVCBPRiBBQ0NPVU5UL0lOVk9JQ0U=?=
+MIME-Version: 1.0
+X-Mailer: Microsoft Outlook 16.0
+Content-Type: text/html; charset=utf-8
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - mars.hosting360.co.in
+X-AntiAbuse: Original Domain - 255dobonfim.pt
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]
+X-AntiAbuse: Sender Address Domain - microsystems.in
+X-Get-Message-Sender-Via: mars.hosting360.co.in: authenticated_id: service@microsystems.in
+X-Authenticated-Sender: mars.hosting360.co.in: service@microsystems.in
+X-Source: 
+X-Source-Args: 
+X-Source-Dir: 
+Received-SPF: pass (srv1.spambusters.email: domain of microsystems.in designates 84.16.230.176 as permitted sender) client-ip=84.16.230.176; envelope-from=service@microsystems.in; helo=mars.hosting360.co.in;
+X-SPF-Result: srv1.spambusters.email: domain of microsystems.in designates 84.16.230.176 as permitted sender
+Authentication-Results:  spambusters.email; spf=pass smtp.mailfrom=service@microsystems.in; dkim=pass header.i=microsystems.in
+X-SpamExperts-Class: unsure
+X-SpamExperts-Evidence: Combined (0.55)
+X-Recommended-Action: accept
+X-Filter-ID: 8G1aH+8yearZuN6N5+X5bm6KuAmzEgFjeXz34jnHp0xdEI5C7Ny06Vt9XnbjvOSCCRUw1MFtPI6M
+ DXG5X2gx91EQyVzDVZOlehQ3EiJLhbu5D9Oe5hRuu9EKjyy4YrA4/Yicn7f1qgxOFo1xrT0QJ2aY
+ CAYK1D5q20MxD3N6BlRgT8She6APIwL/SB0f1CQPnb0M6kqBDvaqV8EBX6iMkCEOxVEYhrzEcdi1
+ 9FZrp3CJZcyT/TYa48Rk7DCXnPRW6mMjdVBNHAFQFCCcZ7EIpyue9TLOhN8AYRsvkjfngQCXmRhj
+ Z1V3ncjFXadjOVzRSCq0CrkeLpHjYSd85qYRuHTaeQtlKubP6iUTjj6yPASOmrbMWhZFkvyjvYIF
+ be8tdb9BwqvSI91oKEKHszPrHEQVv227vlTugD0d6MF4CRaKXcL/lJ+Ku1M86biDP9sLjj5jmviK
+ UoxNaFzoDSBPAVXtK5PjCofhvK0/rTzo2xSU/86+VeHQfEPfz3YUMMqBqSIGAS5g6SocktP6HR2V
+ 1DUeljFjO5bxhhRY601d6qgWNQLfNBAO1R5e8m74IUFYGzFMp4Peg+5uaPPKXebkojBRYkUtYQZv
+ szuUEV+kyPw183WWYClecuvxGVw5P3Qc+vdUsKK/GeaOWXOyR7bOq7MSy0Fa2DqdIzq/OMWwkvwp
+ h0A9eZpkdVOuJiGMxQVRVMaRfHVb8Al2P+JhNav3P0Sc5SnkORdoC4KhHoxZA4HyQmZb+yeUdUzj
+ FiRNPFuXrShUqAoJRpcsm1z8YGtSlYWZGFxkX2PdYQ/VAcxSOkT7Z+T2vmliRTGlgPOKrGPPGBfd
+ hCDp14boETAViyF/ps05xNkDixZkyu3YxR8DqioDqRtKiwNZWkGryT4S+6Smd3bFD5e7rlmRAk8Q
+ 6Bi8SoTTbPdfqjh833SQgQFrc4S/oVTJtOPipqWd15KPVDcyw4OESeWFmOWbSbR58AiiuvbNS7Oz
+ vAkfhjYy8OO61Kd+/VCXsyKZ29f3NKPXYUZW7xiMccEGXtFCAnh4EurVSMhCjxU45HF6VkOpSi0Q
+ n/5was+00YlhfdVP7JnXaybx
+X-Report-Abuse-To: spam@srv1.spambusters.email
+
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+<p>Hello,</p>
+
+<p>Look at the document attached. What do you think about it?</p>
+
+<p><a href="http://metawarspace.com/cdrom/8q1/W4i/Xzb/PCaYOTb.zip">DOCUMENT DOWNLOAD LINK</a></p>
+
+<p><br />
+Thank you,</p>
+
+<p>&nbsp;</p>
+</body>
+</html>
+<br><blockquote type="cite">Good day,
+
+Please find the updated SOA as attachment and please advise the 
+payment plan on this month also for short payment on previous 
+month ($3,824.54) 
+Also attached is the PI for your last order. Kindly confirm if it 
+reflects all your PO items.
+ 
+Thank you for cooperation.
+
+Best regards
+
+MG Macchine Srl
+
+Via Luisa Spagnoli, 18
+
+33087 Pasiano di Pordenone PN
+
+tel. 0434/625624
+
+email info@mgmacchine.it
+
+amministrazione: amministrazione@mgmacchine.it
+
+commerciale: commerciale@mgmacchine.it</blockquote>

@@ -1,0 +1,2 @@
+[09-Apr-2021 13:32:17 UTC] PHP Fatal error:  Class 'App\Http\Requests\Controller' not found in /home/bonfimpt/app/Http/Controllers/Backoffice/Website.php on line 13
+[09-Apr-2021 13:32:56 UTC] PHP Fatal error:  Class 'App\Http\Requests\Controller' not found in /home/bonfimpt/app/Http/Controllers/Backoffice/Website.php on line 11

@@ -1,0 +1,691 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 202104 will be lost/reset.
+# Last config file used to build this data file was /home/bonfimpt/tmp/awstats/awstats.255dobonfim.pt.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2011                
+POS_TIME 2689                
+POS_VISITOR 16295               
+POS_DAY 20450               
+POS_DOMAIN 3599                
+POS_LOGIN 3890                
+POS_ROBOT 4045                
+POS_WORMS 4957                
+POS_EMAILSENDER 5088                
+POS_EMAILRECEIVER 5231                
+POS_SESSION 21080               
+POS_SIDER 21290               
+POS_FILETYPES 5366                
+POS_DOWNLOADS 5702                
+POS_OS 5935                
+POS_BROWSER 6200                
+POS_SCREENSIZE 7243                
+POS_UNKNOWNREFERER 7317                
+POS_UNKNOWNREFERERBROWSER 7804                
+POS_ORIGIN 8136                
+POS_SEREFERRALS 8277                
+POS_PAGEREFS 8458                
+POS_SEARCHWORDS 8669                
+POS_KEYWORDS 8821                
+POS_MISC 2352                
+POS_ERRORS 8880                
+POS_CLUSTER 3746                
+POS_SIDER_404 9056                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20210501015654 29 4853 9770980773102
+FirstTime 20210408152231
+LastTime 20210430221501
+LastUpdate 20210501131142 29 0 28 0 0
+TotalVisits 155                 
+TotalUnique 75                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 113                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+RealPlayerSupport 0 0 0
+PDFSupport 0 0 0
+TotalMisc 0 0 0
+AddToFavourites 0 20 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 3 20 5809210 21 87 2782940
+1 10 80 47264075 8 26 503936
+2 11 79 38796032 13 22 13438475
+3 1 1 2234 18 35 12167614
+4 1 4 496012 15 20 3633020
+5 0 0 0 20 42 6742109
+6 1 1 0 6 12 1307851
+7 10 79 38628894 20 36 1570830
+8 3 3 256173 32 39 834521
+9 20 250 49156825 7 17 5249541
+10 405 2546 1173064104 39 201 10765106
+11 416 3361 1317366225 84 142 23718753
+12 445 2381 914793624 71 83 6776517
+13 95 691 348379469 28 115 41100116
+14 206 592 265409648 87 115 2804479
+15 448 2029 795704089 110 157 7330497
+16 444 2551 1356855745 39 117 17950074
+17 383 2427 928311641 75 184 44918686
+18 89 630 381395795 58 308 109598958
+19 107 754 498228855 12 20 1000639
+20 32 259 193659793 27 117 40089274
+21 70 289 203115475 31 48 3721604
+22 18 87 38789609 16 22 1976057
+23 85 494 220276474 15 42 1458574
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 4
+pt 2939 17574 7175925475
+gb 191 806 374571238
+us 172 1227 517311093
+fr 1 1 2234
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 20
+link 495 209294553 20210426181842 0
+Googlebot/ 217 5629202 20210429235254 12
+AhrefsBot/ 211 14110805 20210430231722 39
+baidu 64 12256069 20210421112822 0
+bingpreview 56 12218117 20210427054107 0
+Googlebot\-Image/ 43 56705961 20210429110116 0
+SemrushBot/ 40 578136 20210428162605 21
+YandexBot/ 38 857817 20210426151205 14
+robot 35 229972 20210430171951 0
+bingbot/ 32 1684985 20210430192728 10
+MJ12bot/ 18 503641 20210424134818 4
+unknown 8 192 20210430022355 8
+spider 7 912268 20210409144659 1
+facebookexternalhit/ 6 174679 20210423181344 0
+LinkedInBot/ 3 177160 20210422183929 0
+no_user_agent 2 18744 20210422183931 0
+Slackbot\-LinkExpanding 2 143889 20210415102856 0
+DotBot/ 2 75511 20210418204718 1
+CFNetwork 1 3244 20210426171927 0
+Googlebot\-Video/ 1 2504882 20210430024606 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 13
+otf 678 49321856 0 0
+css 758 50351769 0 0
+jpg 53 8641297 0 0
+ttf 806 486032864 0 0
+html 744 53134487 0 0
+txt 19 1450 0 0
+svg 4387 12629141 0 0
+Unknown 1067 28977319 0 0
+png 10793 6576992550 0 0
+jpeg 16 1999365 0 0
+js 253 66704578 0 0
+json 8 2821 0 0
+mp4 26 740485252 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 3
+/.well-known/pki-validation/CFFF702D8B157AB2C5C6919AEE8D4989.txt 18 0 1386
+/img/bonfim/video.mp4 3 475 747999898
+/.well-known/pki-validation/F2BB6B27D94EB8CE8B6AE2017629107F.txt 1 0 64
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 14
+linuxandroid 3018 682
+macosx 3428 504
+macosx12 159 18
+macosx8 1 1
+win10 10417 1717
+Unknown 33 3
+linux 96 23
+win8 214 0
+win16 1 1
+win7 101 20
+macosx6 1 1
+macosx9 1 1
+win8.1 155 18
+ios_iphone 2458 314
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 49
+safari 850 111
+firefox82.0 1 1
+firefox58.0 2 2
+firefox81.0 9 9
+chrome89.0.4389.105 806 102
+chrome79.0.3945.136 77 9
+safari14.1 460 98
+chrome84.0.4147.105 1 1
+chrome67.0.3396.79 5 2
+firefox68.0 1 0
+firefox63.0 171 31
+ibrowse 1 0
+chrome57.0.2987.108 1 0
+chrome90.0.4430.91 98 10
+chrome90.0.4430.85 781 141
+msie9.0 36 2
+firefox88.0 85 14
+chrome58.0.3029.110 1 1
+chrome90.0.4430.93 238 91
+chrome78.0.3904.108 3 3
+firefox70.0 1 1
+safari13.1.2 7 1
+safari12.1.2 79 9
+msie7.0 197 0
+chrome90.0.4430.72 297 104
+firefox64.0 2 1
+edge17 112 17
+safari5.1 1 1
+chrome70.0.3538.102 309 47
+firefox56.0 232 27
+chrome79.0.3945.147 79 10
+Unknown 26 2
+mozilla 24 2
+iphone 18 0
+chrome84.0.4147.135 125 18
+msie10.0 18 0
+firefox87.0 518 67
+safari14.0.2 953 95
+chrome80.0.3987.87 157 18
+chrome89.0.4389.114 7170 1257
+msie11.0 621 91
+chrome35.0.1916.47 1 1
+firefox79.0 1 1
+chrome56.0.2924.76 1 1
+chrome26.0.1410.65 1 1
+chrome83.0.4103.97 4 1
+chrome72.0.3626.109 64 17
+safari14.0.3 3176 462
+chrome89.0.4389.128 2262 423
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 9
+Sectigo_DCV 20210408171322
+Mozilla/4.0_(compatible;_Netcraft_Web_Server_Survey) 20210430143015
+COMODO_DCV 20210408171320
+WhatsApp/2.2110.12_N 20210409190617
+Mozilla/5.0_(compatible;_AhrefsBot/7.0;__http://ahrefs.com/robot/) 20210428105440
+adreview/1.0 20210414221900
+Googlebot-Image/1.0 20210428114225
+WhatsApp/2.21.71.1_i 20210423132347
+Slack-ImgProxy_(_https://api.slack.com/robots) 20210415001228
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 7
+COMODO_DCV 20210408171320
+Sectigo_DCV 20210408171322
+WhatsApp/2.2110.12_N 20210409190617
+Googlebot-Image/1.0 20210428114225
+adreview/1.0 20210414221900
+WhatsApp/2.21.71.1_i 20210423132347
+Slack-ImgProxy_(_https://api.slack.com/robots) 20210415001228
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 596 887
+From1 1 1
+From2 5 5
+From3 2 2
+From4 2699 19188
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+www_google_pt 1 1
+www_google_com 4 4
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 2
+https://www.netcraft.com/survey/ 1 1
+http://m.facebook.com 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 7
+302 12 3988
+404 536 5437008
+301 44 10684
+206 32 17866277
+413 5 13860
+405 16 5616450
+500 59 14412077
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 130
+/contact 1 -
+/apple-touch-icon-120x120-precomposed.png 2 -
+/img/bonfim/planta_6_low-res.png 1 http://255dobonfim.pt/
+/backoffice/vendor/notific8/notific8.css.map 178 -
+/img/bonfim/planta_3_low-res.png 1 http://255dobonfim.pt/
+/img/bonfim/galeria_home_Mzi.png 1 http://255dobonfim.pt/admin/website-galeria
+/sitemap.xml.gz 6 -
+/atom.xml 6 -
+/news/wp-includes/wlwmanifest.xml 1 -
+/img/bonfim/planta_5_low-res.png 1 http://255dobonfim.pt/
+/.env 16 -
+/admin/galeria_home_xs_MK4.png 2 http://255dobonfim.pt/admin/website-galeria
+/sitemap.txt 6 -
+/img/bonfim/planta19-9i0.png 2 http://255dobonfim.pt/admin/website-info
+/img/bonfim/planta_9_low-res.png 1 http://255dobonfim.pt/
+/img/bonfim/rua_mapa.png 1 http://255dobonfim.pt/
+/img/site/logo_bonfim.svg 1 http://255dobonfim.pt/
+/img/bonfim/galeria_home_0Bw.png 1 http://255dobonfim.pt/admin/website-galeria
+/sito/wp-includes/wlwmanifest.xml 1 -
+/img/bonfim/galeria_home_ugG.png 7 http://www.255dobonfim.pt/
+/img/bonfim/galeria_home_DFM.png 2 http://255dobonfim.pt/admin/website-galeria
+/img/bonfim/galeria_home_JMJ.png 1 http://255dobonfim.pt/admin/website-galeria
+/admin/galeria_home_xs_uaJ.png 2 http://255dobonfim.pt/admin/website-galeria
+/shop/wp-includes/wlwmanifest.xml 1 -
+/admin/galeria_home_xs_dbW.png 2 http://255dobonfim.pt/admin/website-galeria
+/robots.txt 1 -
+/apple-touch-icon-120x120.png 2 -
+/2019/wp-includes/wlwmanifest.xml 1 -
+/img/bonfim/planta_11_low-res.png 1 http://255dobonfim.pt/
+/aviso-legal 1 -
+/2018/wp-includes/wlwmanifest.xml 1 -
+/ads.txt 1 -
+/admin/galeria_home_xs_JEq.png 2 http://255dobonfim.pt/admin/website-galeria
+/admin/galeria_home_xs_EdF.png 2 http://255dobonfim.pt/admin/website-galeria
+/img/bonfim/galeria_home_7ed.png 1 http://255dobonfim.pt/admin/website-galeria
+/img/bonfim/galeria_home_dhW.png 1 http://255dobonfim.pt/admin/website-galeria
+/%7B/img/bonfim/planta_11.png 2 http://255dobonfim.pt/
+/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 4 -
+/img/bonfim/galeria_home_U42.png 7 http://www.255dobonfim.pt/
+/img/bonfim/galeria_home_Wd5.png 1 http://255dobonfim.pt/admin/website-galeria
+/img/bonfim/galeria_home_LIg.png 2 http://255dobonfim.pt/admin/website-galeria
+/%7B/img/bonfim/planta_8.png 2 http://255dobonfim.pt/
+/wordpress/wp-includes/wlwmanifest.xml 1 -
+/%7B/img/bonfim/planta_9.png 2 http://255dobonfim.pt/
+/wp/wp-includes/wlwmanifest.xml 1 -
+/aaa9 1 -
+/img/bonfim/slide/rasgo_papel_B.png 1 http://255dobonfim.pt/
+/cms/wp-includes/wlwmanifest.xml 1 -
+/img/bonfim/apartamento_slide_E.svg 1 http://255dobonfim.pt/
+/img/bonfim/planta_13_low-res.png 1 http://255dobonfim.pt/
+/%7B/img/bonfim/planta_2.png 2 http://255dobonfim.pt/
+/img/bonfim/galeria_home_KDS.png 7 http://www.255dobonfim.pt/
+/img/bonfim/galeria_home_Q7T.png 3 http://255dobonfim.pt/admin/website-galeria
+/img/bonfim/planta_14_low-res.png 1 http://255dobonfim.pt/
+/media/wp-includes/wlwmanifest.xml 1 -
+/sitemaps.xml 6 -
+/aad7 1 -
+/img/bonfim/galeria_home_Mkh.png 2 http://255dobonfim.pt/admin/website-galeria
+/'/img/bonfim/planta_14.png' 1 http://255dobonfim.pt/
+/%7B/img/bonfim/planta_12.png 2 http://255dobonfim.pt/
+/img/bonfim/galeria_home_mrf.png 7 http://www.255dobonfim.pt/
+/admin/galeria_home_xs_MaL.png 2 http://255dobonfim.pt/admin/website-galeria
+/img/site/Lupa_texto.png 1 http://255dobonfim.pt/
+/%7B/img/bonfim/planta_5.png 2 http://255dobonfim.pt/
+/img/site/Lupa_texto_en.png 2 http://255dobonfim.pt/
+/img/bonfim/planta_7_low-res.png 1 http://255dobonfim.pt/
+/img/bonfim/apartamento_slide_C.svg 1 http://255dobonfim.pt/
+/img/bonfim/apartamento_slide_B.svg 1 http://255dobonfim.pt/
+/img/favicons/favicons.png 5 -
+/img/favicons/ 49 http://www.255dobonfim.pt/
+/img/bonfim/timeline/visto_verde.svg 1 http://255dobonfim.pt/
+/img/bonfim/apartamento_slide_A.svg 1 http://255dobonfim.pt/
+/img/site/logo.svg 1 http://255dobonfim.pt/
+/sitemap_index.xml 6 -
+/img/bonfim/galeria_home_aST.png 3 http://255dobonfim.pt/admin/website-galeria
+/img/bonfim/planta_1_low-res.png 1 http://255dobonfim.pt/
+/img/bonfim/galeria_home_Ocz.png 7 http://www.255dobonfim.pt/
+/website/wp-includes/wlwmanifest.xml 1 -
+/img/bonfim/galeria_home_scl.png 7 http://www.255dobonfim.pt/
+/%7B/img/bonfim/planta_14.png 2 http://255dobonfim.pt/
+/img/bonfim/galeria_home_xiK.png 7 http://www.255dobonfim.pt/
+/%7B/img/bonfim/planta_1.png 2 http://255dobonfim.pt/
+/img/bonfim/planta_10_low-res.png 1 http://255dobonfim.pt/
+/ 5 -
+/apple-touch-icon-precomposed.png 3 -
+/img/bonfim/timeline/visto_cinza.svg 1 http://255dobonfim.pt/
+/test/wp-includes/wlwmanifest.xml 1 -
+/%7B/img/bonfim/planta_6.png 2 http://255dobonfim.pt/
+/img/bonfim/planta_4_low-res.png 1 http://255dobonfim.pt/
+/wp-includes/wlwmanifest.xml 1 -
+/img/bonfim/planta_2_low-res.png 1 http://255dobonfim.pt/
+/img/bonfim/slide/rasgo_papel_A.png 1 http://255dobonfim.pt/
+/img/bonfim/planta_8_low-res.png 1 http://255dobonfim.pt/
+/web/wp-includes/wlwmanifest.xml 1 -
+/admin/galeria_home_xs_GQI.png 2 http://255dobonfim.pt/admin/website-galeria
+/admin/galeria_home_xs_HEM.png 2 http://255dobonfim.pt/admin/website-galeria
+/img/bonfim/video.mp4 1 http://255dobonfim.pt/
+/img/bonfim/apartamento_slide_F.svg 1 http://255dobonfim.pt/
+/%7B/img/bonfim/planta_7.png 2 http://255dobonfim.pt/
+/img/bonfim/galeria_home_V3y.png 1 http://255dobonfim.pt/admin/website-galeria
+/site/wp-includes/wlwmanifest.xml 1 -
+/%7B/img/bonfim/planta_3.png 2 http://255dobonfim.pt/
+/img/site/logo_255_azul.svg 1 http://255dobonfim.pt/
+/img/bonfim/galeria_home_LRj.png 2 http://255dobonfim.pt/admin/website-galeria
+/img/bonfim/galeria_home_FCZ.png 3 http://255dobonfim.pt/admin/website-galeria
+/img/bonfim/galeria_home_Cyd.png 2 http://255dobonfim.pt/admin/website-galeria
+/admin/galeria_home_xs_adl.png 2 http://255dobonfim.pt/admin/website-galeria
+/wp2/wp-includes/wlwmanifest.xml 1 -
+/%7B/img/bonfim/planta_4.png 2 http://255dobonfim.pt/
+/%7B/img/bonfim/planta_10.png 2 http://255dobonfim.pt/
+/wp-login.php 17 -
+/img/site/logo_255_azul.svg.svg 1 http://255dobonfim.pt/aviso-legal
+/admin/galeria_home_xs_mhT.png 2 http://255dobonfim.pt/admin/website-galeria
+/sitemap.xml 7 -
+/img/bonfim/apartamento_slide_D.svg 1 http://255dobonfim.pt/
+/blog/wp-includes/wlwmanifest.xml 1 -
+/img/bonfim/slide/rasgo_papel_C.png 1 http://255dobonfim.pt/
+/apple-touch-icon.png 3 -
+/img/bonfim/planta_12_low-res.png 1 http://255dobonfim.pt/
+/img/bonfim/timeline/inicio.svg 1 http://255dobonfim.pt/
+/xmlrpc.php 3 -
+/%7B/img/bonfim/planta_13.png 2 http://255dobonfim.pt/
+/img/bonfim/top_header_imagem.png 1 http://255dobonfim.pt/
+/wp1/wp-includes/wlwmanifest.xml 1 -
+/img/bonfim/galeria_home_2mM.png 7 http://www.255dobonfim.pt/
+/admin/galeria_home_xs_9hU.png 2 http://255dobonfim.pt/admin/website-galeria
+/img/bonfim/galeria_home_rD1.png 2 http://255dobonfim.pt/admin/website-galeria
+/img/bonfim/galeria_home_WdE.png 7 http://www.255dobonfim.pt/
+/admin/galeria_home_xs_LbU.png 2 http://255dobonfim.pt/admin/website-galeria
+/img/bonfim/galeria_home_nC5.png 7 http://www.255dobonfim.pt/
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 113
+144.64.83.83 1808 9990 3203584557 20210427144341
+37.189.7.108 488 3135 1354072284 20210430130210
+213.30.62.190 155 1297 639912993 20210428174326
+82.155.214.44 128 891 279317133 20210411185904
+92.10.7.163 84 247 140211909 20210415165108
+51.161.119.229 84 487 219655171 20210429234028
+79.168.93.170 79 379 336342877 20210413210304
+89.155.138.209 38 314 190799359 20210409200209
+148.69.31.205 30 203 91276589 20210409191605
+46.189.239.19 28 262 234599611 20210426124821
+188.250.81.249 22 245 110528054 20210428134810
+87.103.55.26 21 178 86565488 20210415012005
+52.242.98.207 20 183 76984158 20210428181556
+52.143.249.184 18 156 72240730 20210427021216
+84.90.124.58 18 101 75218970 20210413210332
+87.196.80.145 17 141 110947923 20210425104110
+87.196.81.135 14 77 29387599 20210415102930
+149.90.228.141 14 102 64954486 20210423110854
+161.230.110.179 10 83 34173497 20210412170511
+148.69.34.14 10 86 44779295 20210422190054
+188.80.144.231 10 99 87432100 20210428103010
+149.90.50.81 10 80 36124012 20210426070941
+188.80.111.122 10 67 16352355 20210409154149
+89.154.53.191 10 98 39910079 20210429123309
+94.133.229.41 9 42 9534658 20210419173101
+52.143.255.94 0 9 1696537 
+34.205.33.171 1 1 46067 20210411173204
+35.175.250.241 0 1 328883 
+51.15.191.81 1 1 2266 20210409091711
+18.209.171.142 1 3 69592 20210411172536
+54.211.60.196 1 2 63502 20210411172602
+23.100.232.233 1 18 646061 20210410125732
+34.209.125.133 0 1 2402 
+54.190.22.40 1 4 496012 20210408183033
+161.230.103.94 9 54 10666750 20210409124010
+3.17.210.127 1 1 68051 20210412000212
+87.103.87.16 9 80 36091255 20210420204512
+173.252.87.5 0 1 46168 
+79.142.76.199 0 3 4959827 
+34.210.73.30 0 1 675 
+163.172.70.215 9 9 203092 20210430221501
+52.87.226.65 2 2 1001845 20210411173203
+34.221.211.116 0 1 2689 
+209.236.88.253 1 3 485038 20210422234352
+54.145.238.172 1 4 70284 20210411172553
+54.202.233.223 1 1 84220 20210425184644
+87.103.56.25 0 3 4969633 
+35.72.182.245 0 1 376461 
+148.69.200.64 9 77 36114561 20210428104408
+35.175.144.148 2 4 394399 20210411174038
+54.188.39.140 0 1 727 
+8.2.209.251 0 1 32254 
+62.4.14.198 1 1 2234 20210409092608
+20.40.149.67 0 9 1696537 
+173.252.87.19 2 19 3130793 20210414221829
+42.236.10.117 0 1 2504882 
+173.252.87.23 0 2 332535 
+54.191.252.192 0 1 347 
+91.199.212.132 0 3 231 
+3.87.73.102 1 3 56189 20210411172832
+104.222.33.157 1 1 83798 20210421203455
+173.252.87.1 1 1 71773 20210414221827
+54.189.36.102 0 1 826 
+54.146.13.8 0 4 15007 
+104.222.43.20 0 1 3244 
+89.155.141.20 9 78 36089995 20210420151854
+13.229.133.72 1 1 85222 20210428025507
+54.203.73.198 1 1 85222 20210427175345
+51.89.230.56 1 1 85330 20210429000408
+212.113.167.200 9 63 30431694 20210413162852
+52.175.245.102 1 18 646061 20210412003652
+178.166.109.60 9 79 36093335 20210422101904
+18.237.74.111 0 1 1179 
+52.91.67.3 0 2 3703 
+34.229.98.96 0 1 4801 
+3.89.109.117 0 3 7517 
+54.196.64.6 0 1 430 
+148.252.128.183 9 59 14157066 20210415162614
+209.236.88.254 0 1 57005 
+54.82.182.77 0 1 1512 
+34.216.32.205 1 1 45962 20210411174414
+52.91.186.159 0 1 4094 
+209.236.88.251 0 2 47006 
+54.218.242.192 0 1 882 
+54.187.194.70 1 1 0 20210408183024
+199.244.88.132 1 1 0 20210425065806
+85.244.83.80 9 76 73693846 20210413151506
+168.119.68.179 0 1 2504882 
+184.72.102.221 1 1 913712 20210411172534
+34.216.248.195 0 1 672 
+173.252.87.16 0 5 5058914 
+194.210.238.196 9 62 27924571 20210409190104
+185.90.56.75 0 16 1219 
+92.250.97.138 9 81 37367409 20210423132403
+18.234.157.86 0 3 4600 
+3.87.216.214 1 2 57761 20210411172941
+69.25.58.60 2 5 498246 20210409041242
+3.82.150.117 1 3 365279 20210411172655
+51.137.184.155 3 3 256173 20210430083511
+54.89.105.85 0 1 787 
+54.204.71.115 0 2 983 
+54.191.232.212 0 1 703 
+34.239.182.190 3 4 652302 20210411172652
+87.196.72.133 3 22 22201692 20210409194608
+52.34.93.154 0 1 870 
+87.196.74.208 9 65 30433182 20210409193125
+54.190.9.198 1 1 85563 20210430022354
+45.58.49.210 1 1 68051 20210409180436
+52.90.131.176 1 2 48726 20210411172545
+173.252.87.119 2 26 11426219 20210414221830
+82.155.199.35 9 78 36121604 20210428181555
+159.65.243.158 1 1 0 20210430143015
+173.252.87.10 4 25 16015233 20210414221829
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 20
+20210408 9 37 1203839 4
+20210409 1049 6069 2377101402 19
+20210410 19 144 85560725 3
+20210411 127 805 232927056 16
+20210412 147 1040 468708571 7
+20210413 364 2410 1275410523 15
+20210414 378 2516 1119322573 14
+20210415 322 1628 720263901 9
+20210416 23 160 104051223 2
+20210419 67 301 165822850 4
+20210420 82 344 91167734 4
+20210421 12 45 68265055 2
+20210422 77 549 331584766 8
+20210423 146 797 391665856 13
+20210425 19 136 120484498 3
+20210426 76 440 187399915 4
+20210427 162 644 294571872 9
+20210428 87 798 449192401 9
+20210429 108 681 294698093 5
+20210430 29 64 31347384 5
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+15mn-30mn 15
+30s-2mn 10
+1h+ 16
+2mn-5mn 7
+30mn-1h 15
+5mn-15mn 9
+0s-30s 83
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 74
+/ 744 53134487 120 64
+/font/Fontes/segoeuiRegular.ttf 208 173000524 1 15
+/font/Fontes/segoeuiLight.ttf 207 165381872 1 8
+/font/Fontes/segoeuiLightItalic.ttf 192 80949440 1 5
+/font/Fontes/proxima-nova-semibold.otf 172 10035444 3 1
+/font/Fontes/ProximaNovaBold.otf 169 14979200 1 2
+/font/Fontes/proxima-nova-light.otf 169 9823008 2 12
+/font/Fontes/Georgia%20Bold.ttf 168 54933800 1 2
+/font/Fontes/ProximaNova-Regular.otf 168 14484204 0 2
+/apartamento/1 94 4420938 3 12
+/admin/website-galeria-new 84 2087505 0 0
+/apartamento/2 82 3831610 4 3
+/admin/TM-delLine 73 511 0 0
+/apartamento/3 62 2910166 2 4
+/admin/website-galeria 60 1597559 0 0
+/apartamento/6 54 2530376 4 3
+/admin/website-galeria-post 49 967 0 1
+/apartamento/5 49 2295261 1 3
+/apartamento/4 47 2204557 0 3
+/noticia/13 38 554632 1 3
+/admin 33 340646 5 0
+/font/Fontes/Georgia.ttf 31 11767228 0 2
+/localizacao 28 477902 2 4
+/noticia/1 26 326179 1 2
+/admin/news 20 570412 0 0
+/admin/contacts 4 99299 0 0
+/noticia/12 17 231306 0 0
+/admin/add-img-projeto 8 203214 0 0
+/bonfim-contact 10 303 0 0
+/bonfim-apartamento/3 1 45690 0 0
+/admin/admins 4 92992 0 0
+/admin/edit-new/9 1 26643 0 0
+/webmail 1 33895 0 0
+/admin/edit-new/10 1 26181 0 0
+/backoffice/img/favicons/manifest.json 2 806 0 0
+/admin/edit-apartment/5 1 38004 0 0
+/noticia/14 16 235007 0 1
+/admin/apartments 13 439153 0 0
+/admin/new-news 6 155778 0 0
+/admin/edit-apartment/3 1 38004 0 0
+/admin/website-info 11 430185 0 0
+/admin/datasheet 1 23873 0 0
+/img/favicons/manifest.json 6 2015 1 2
+/admin/newsletter-delete 1 7 0 0
+/admin/newsletter-send 1 25586 0 0
+/admin/add-img 6 213 0 0
+/admin/edit-apartment/2 1 37996 0 0
+/aviso-legal 5 21764 0 0
+/admin/edit-new/13 2 57861 0 0
+/admin/newsletter 3 71446 0 0
+/admin/dashboard 15 340948 0 0
+/admin/contact/7 1 20913 0 0
+/admin/newsletter-emails 2 50040 0 0
+/noticia/11 19 244622 0 0
+/admin/admin-form 1 55 0 0
+/admin/edit-apartment/4 1 38001 0 0
+/noticia/9 18 193921 1 1
+/admin/form-new 14 1138 0 0
+/admin/website-timeline-edit 7 140 0 0
+/admin/edit-admin/1 1 25763 0 0
+/admin/edit-apartment/6 2 75998 0 0
+/admin/edit-new/1 2 58782 0 0
+/bonfim-localizacao 1 16679 0 0
+/bonfim-apartamento/4 1 45661 0 0
+/admin/edit-new/8 1 26884 0 0
+/admin/newsletter-view/8 7 160733 0 0
+/admin/newsletter-create 1 27 0 0
+/bonfim-newsletter 3 201 0 0
+/noticia/8 8 89908 0 0
+/admin/website-timeline 15 704081 0 0
+/admin/form-apartment 8 861 0 0
+/admin/edit-apartment/1 9 340915 0 0
+/admin/TM-onoff 14 98 0 0
+/admin/edit-new/11 2 57329 0 0
+END_SIDER

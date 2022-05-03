@@ -1,0 +1,71 @@
+.welcome-panel .widget-heading {
+  background: #ffffff;
+  border: none;
+  color: #0a2540;
+  text-transform: none;
+}
+.welcome-panel .widget-heading .group-header-indicator {
+  color: rgba(10, 37, 64, 0.6);
+}
+.welcome-panel .widget-heading .group-header-indicator:hover,
+.welcome-panel .widget-heading .group-header-indicator:active,
+.welcome-panel .widget-heading .group-header-indicator:focus {
+  color: rgba(10, 37, 64, 0.8);
+}
+.welcome-panel .panel-body {
+  width: 100%;
+}
+.welcome-panel .title {
+  font-size: 1.4em;
+  font-weight: 600;
+  margin-bottom: 32px;
+}
+.welcome-panel .welcome-img,
+.welcome-panel .group-header,
+.welcome-panel .description {
+  display: none;
+}
+.welcome-panel .flex-row {
+  justify-content: center;
+  padding: 0;
+  text-align: center;
+}
+.welcome-panel .flex-item {
+  flex-direction: column;
+  align-items: center;
+  max-width: none;
+}
+.welcome-panel .itemTextWrapper {
+  text-align: center;
+  max-width: 300px;
+}
+.welcome-panel .icon-email_accounts {
+  background-image: url("img/email.svg");
+  background-size: contain;
+  background-position: initial;
+  width: 80px;
+  height: 80px;
+  margin-bottom: 10px;
+}
+@media (max-width: 767px) {
+  .welcome-panel .icon-email_accounts {
+    width: 60px;
+    height: 60px;
+  }
+}
+.welcome-panel .icon-wp-toolkit,
+.welcome-panel .icon-site_publisher {
+  background-image: url("img/website.svg");
+  background-size: contain;
+  background-position: initial;
+  width: 80px;
+  height: 80px;
+  margin-bottom: 10px;
+}
+@media (max-width: 767px) {
+  .welcome-panel .icon-wp-toolkit,
+  .welcome-panel .icon-site_publisher {
+    width: 60px;
+    height: 60px;
+  }
+}

@@ -1,0 +1,24 @@
+BACKOFFICE:
+
+-->PAINEL
+-->WEBSITE
+-->AREA UTILIZADOR
+-->AREA COMERCIAL
+
+
+AREA COMERCIAL:
+->Criar página de registo;
+->Criar dashboard;
+
+
+
+
+TIPOS DE CONFIGURAÇÕES
+
+->company_pontos_vendas
+->company_pontos_volume
+->company_ebitda
+->company_certidao
+->company_ies
+->company_nif
+->company_contact

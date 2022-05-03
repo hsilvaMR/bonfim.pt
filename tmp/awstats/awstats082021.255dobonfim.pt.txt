@@ -1,0 +1,480 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202108 will be lost/reset.
+# Last config file used to build this data file was /home/bonfimpt/tmp/awstats/awstats.255dobonfim.pt.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2011                
+POS_TIME 2694                
+POS_VISITOR 9747                
+POS_DAY 12920               
+POS_DOMAIN 3488                
+POS_LOGIN 3820                
+POS_ROBOT 3975                
+POS_WORMS 4709                
+POS_EMAILSENDER 4840                
+POS_EMAILRECEIVER 4983                
+POS_SESSION 13629               
+POS_SIDER 13786               
+POS_FILETYPES 5118                
+POS_DOWNLOADS 5349                
+POS_OS 5432                
+POS_BROWSER 5639                
+POS_SCREENSIZE 6147                
+POS_UNKNOWNREFERER 6221                
+POS_UNKNOWNREFERERBROWSER 6764                
+POS_ORIGIN 7067                
+POS_SEREFERRALS 7205                
+POS_PAGEREFS 7370                
+POS_SEARCHWORDS 7581                
+POS_KEYWORDS 7733                
+POS_MISC 2357                
+POS_ERRORS 7792                
+POS_CLUSTER 3676                
+POS_SIDER_404 7921                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20210901011010 131 31070 10806986588838
+FirstTime 20210801073604
+LastTime 20210831160747
+LastUpdate 20210901131650 131 0 130 0 0
+TotalVisits 78                  
+TotalUnique 75                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 81                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+RealPlayerSupport 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+TotalMisc 0 0 0
+FlashSupport 0 0 0
+JavascriptDisabled 0 0 0
+JavaEnabled 0 0 0
+DirectorSupport 0 0 0
+AddToFavourites 0 31 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 2 2 174137 28 50 2768611
+1 2 2 5183642 45 85 7912768
+2 1 1 86939 24 37 4371350
+3 0 0 10019528 53 107 11937835
+4 1 2 88101 25 46 4905763
+5 2 2 173878 17 42 1026888
+6 2 2 5183758 33 80 9685102
+7 22 22 1161232 29 54 2431876
+8 1 1 86939 25 41 6834670
+9 1 1 86939 34 69 8175084
+10 1 2 2592983 46 121 16850447
+11 2 2 0 47 97 17428742
+12 47 55 4110857 26 74 4153057
+13 1 1 86939 21 41 2380318
+14 16 104 43383724 19 35 2183161
+15 1 1 87084 28 49 1807542
+16 3 3 260761 23 38 3648298
+17 12 80 38713893 22 31 1650883
+18 0 1 270323 26 42 4426989
+19 1 1 86939 23 56 1659551
+20 0 0 0 17 42 2164252
+21 15 16 823152 42 58 3996297
+22 0 0 0 32 65 5823213
+23 1 1 86939 97 118 3004187
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 8
+us 82 93 14103687
+ca 20 20 987238
+pt 14 102 40704703
+ro 9 77 36122073
+in 3 3 0
+gr 2 2 174023
+mo 2 2 173706
+cn 2 3 444201
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 15
+AhrefsBot/ 317 20429895 20210831235755 55
+bingpreview 276 63233223 20210831102424 0
+Googlebot/ 251 6975348 20210831174754 31
+bingbot/ 168 10071459 20210831102418 14
+bot[\s_+:,\.\;\/\\-] 92 2434941 20210831230133 39
+SemrushBot/ 41 725987 20210831123939 22
+Googlebot\-Image/ 33 15534962 20210826100633 0
+MJ12bot/ 19 713987 20210830234122 4
+crawl 17 494317 20210825012323 2
+DotBot/ 13 582166 20210817235432 2
+DuckDuckGo\-Favicons\-Bot/ 12 541098 20210828150823 0
+unknown 11 264 20210831144126 11
+LinkedInBot/ 4 174158 20210806051401 2
+survey 3 173795 20210831220544 0
+YandexBot/ 2 86963 20210807092726 1
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 9
+Unknown 32 1080286 0 0
+png 108 63557288 0 0
+css 4 386820 0 0
+js 3 986649 0 0
+html 85 7040079 0 0
+ttf 9 5766100 0 0
+jpg 2 540646 0 0
+svg 51 192569 0 0
+otf 8 634784 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 1
+/img/bonfim/video.mp4 4 7 27553702
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 11
+macosx 1 1
+macosx12 1 0
+macosx9 3 3
+ios_iphone 2 2
+win7 5 1
+macosx8 2 2
+Unknown 29 20
+linuxandroid 2 2
+macosx10 2 2
+linux 72 70
+win10 189 31
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 23
+chrome59.0.3071.115 1 0
+chrome73.0.3683.90 1 1
+chrome83.0.4103.97 46 46
+chrome84.0.4147.105 3 3
+mozilla 7 3
+chrome92.0.4515.107 78 9
+chrome75.0.3765.0 1 1
+chrome88.0.4324.190 1 1
+chrome79.0.3945.88 1 1
+chrome26.0.1410.65 2 2
+chrome81.0.4044.138 2 2
+chrome35.0.1916.47 3 3
+chrome92.0.4515.159 103 14
+firefox82.0 5 3
+safari11.0 1 1
+firefox72.0 20 20
+msie9.0 1 0
+chrome72.0.3626.121 1 1
+Unknown 25 17
+safari 1 1
+firefox59.0 2 2
+firefox40.0 2 2
+firefox57.0 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 6
+Mozilla/5.0_(compatible;_AhrefsBot/7.0;__http://ahrefs.com/robot/) 20210811014221
+Turnitin_(https://bit.ly/2UvnfoQ) 20210827215633
+Mozilla/4.0_(compatible;_Netcraft_Web_Server_Survey) 20210801175808
+Go-http-client/1.1 20210830123233
+NetSystemsResearch_studies_the_availability_of_various_services_across_the_internet._Our_website_is_netsystemsresearch.com 20210824140347
+Mozilla/5.0_(compatible;_NetcraftSurveyAgent/1.0;__info@netcraft.com) 20210804003331
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 3
+Turnitin_(https://bit.ly/2UvnfoQ) 20210827215633
+NetSystemsResearch_studies_the_availability_of_various_services_across_the_internet._Our_website_is_netsystemsresearch.com 20210824140347
+Go-http-client/1.1 20210830123233
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 89 101
+From1 2 2
+From2 20 20
+From3 2 2
+From4 21 183
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+www_google_com 20 20
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 2
+http://lcvye.wbjm.net 1 1
+https://www.netcraft.com/survey/ 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 4
+301 38 8967
+405 23 8042199
+404 97 993183
+302 30 9972
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 44
+/admin/fckeditor/editor/filemanager/connectors/test.html 1 -
+/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 3 -
+/blog/wp-login.php 1 -
+/home 1 http://255dobonfim.pt/home/
+/v1 1 http://255dobonfim.pt/v1/
+/v2 1 http://255dobonfim.pt/v2/
+/install 1 http://255dobonfim.pt/install/
+/wp1 1 http://255dobonfim.pt/wp1/
+/wp 1 http://255dobonfim.pt/wp/
+/backup 1 http://255dobonfim.pt/backup/
+/font/Fontes/ 1 -
+/wordpress 1 http://255dobonfim.pt/wordpress/
+/ads.txt 1 -
+/2018 1 http://255dobonfim.pt/2018/
+/blog 1 http://255dobonfim.pt/blog/
+/temp 1 http://255dobonfim.pt/temp/
+/2020 1 http://255dobonfim.pt/2020/
+/old-wp 1 http://255dobonfim.pt/old-wp/
+/new/wp-login.php 1 -
+/new-site 1 http://255dobonfim.pt/new-site/
+/bak 1 http://255dobonfim.pt/bak/
+/wp2 1 http://255dobonfim.pt/wp2/
+/new 1 http://255dobonfim.pt/new/
+/.env 28 -
+/tmp 1 http://255dobonfim.pt/tmp/
+/test 1 http://255dobonfim.pt/test/
+/site 1 http://255dobonfim.pt/site/
+/js/fckeditor/editor/filemanager/connectors/test.html 1 -
+/2019 1 http://255dobonfim.pt/2019/
+/web 1 http://255dobonfim.pt/web/
+//uapi-cgi/certmngr.cgi 1 -
+/dev 1 http://255dobonfim.pt/dev/
+/fckeditor/editor/filemanager/connectors/test.html 1 -
+/sitemap.xml 1 -
+/demo 1 http://255dobonfim.pt/demo/
+/old-site 1 http://255dobonfim.pt/old-site/
+/cms 1 http://255dobonfim.pt/cms/
+/bk 1 http://255dobonfim.pt/bk/
+/old 1 http://255dobonfim.pt/old/
+/z0f76a1d14fd21a8fb5fd0d03e0fdc3d3cedae52f 1 -
+/main 1 http://255dobonfim.pt/main/
+/wp-login.php 23 -
+/xmlrpc.php 2 -
+/cms/wp-login.php 2 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 81
+199.47.82.21 15 15 494269 20210827215633
+188.80.252.39 14 103 40704703 20210831144307
+192.99.18.108 10 10 493135 20210811073859
+192.99.18.136 10 10 494103 20210801073612
+80.97.208.74 9 78 36122073 20210828170746
+202.175.114.26 2 2 173706 20210831160747
+34.132.218.239 2 2 173878 20210807235239
+3.138.117.123 2 2 173994 20210807074321
+54.184.234.231 2 4 180366 20210815124935
+34.214.141.146 2 4 180366 20210827121632
+54.203.73.198 2 4 176202 20210825045746
+52.36.242.133 1 1 86401 20210801121658
+54.200.234.89 1 1 86939 20210822124235
+138.128.118.130 1 1 86939 20210806011824
+54.245.187.67 1 1 86767 20210830123154
+45.129.18.106 1 1 0 20210810113101
+54.201.94.1 1 1 86939 20210811120727
+54.149.32.247 1 1 86939 20210826130759
+45.129.18.67 1 1 0 20210819170957
+34.217.62.156 1 1 86939 20210817123930
+92.118.160.41 1 1 86939 20210807093414
+34.217.31.179 1 2 90183 20210817124024
+52.40.181.189 1 1 86939 20210808125832
+54.202.132.69 1 1 86938 20210803122753
+34.219.77.198 1 1 86939 20210821124117
+113.31.117.221 0 1 270323 
+54.202.140.220 1 1 86939 20210817122758
+54.214.185.249 1 1 86939 20210805122019
+34.222.25.144 1 1 86939 20210815124123
+54.185.175.199 1 2 90183 20210816122237
+209.97.153.28 1 1 87083 20210804000536
+45.129.18.156 1 1 0 20210829115236
+147.182.205.42 1 1 86939 20210807024343
+34.221.217.254 1 1 86939 20210814121503
+34.219.91.118 1 1 86939 20210827121455
+195.154.123.51 0 1 2504882 
+34.214.6.253 1 1 86939 20210829123112
+52.25.88.245 1 1 86939 20210823123417
+52.12.80.84 1 1 86939 20210827121556
+34.221.122.149 1 1 86939 20210819125259
+64.246.161.42 1 1 87055 20210825064100
+35.165.16.8 1 1 86939 20210828124506
+100.21.218.158 1 1 86938 20210803172837
+54.244.61.240 1 1 86939 20210820123338
+92.118.160.1 1 1 87084 20210824140347
+52.36.171.136 1 1 86938 20210802124113
+159.65.174.193 1 1 0 20210801175808
+76.72.172.169 1 1 87055 20210809160016
+54.191.183.121 1 1 86939 20210804123858
+34.220.143.177 1 1 86939 20210824123513
+54.71.135.98 1 1 86939 20210819125342
+171.13.14.83 1 1 86939 20210820051226
+54.245.48.233 1 1 86939 20210815124024
+34.221.155.167 1 1 86939 20210824123250
+54.213.188.142 1 1 86939 20210816122004
+167.99.49.190 1 1 87054 20210804003331
+54.244.140.50 1 1 86939 20210822124119
+34.219.5.185 1 1 86939 20210817124029
+175.44.42.28 1 1 86939 20210820082642
+207.46.13.158 0 1 328883 
+18.191.254.95 1 1 86939 20210827012024
+54.184.227.138 1 1 86939 20210826122842
+54.245.37.79 1 2 90183 20210824123318
+54.189.106.65 1 1 86939 20210805122148
+52.33.163.58 1 1 86939 20210811121521
+40.77.139.113 0 1 2504882 
+64.246.178.34 1 1 87055 20210804141323
+162.55.190.106 1 1 86939 20210827193709
+40.77.191.27 0 1 2504882 
+52.33.147.246 1 1 86939 20210825122457
+34.220.113.209 1 2 90011 20210830123228
+159.65.242.215 1 1 86939 20210821123109
+44.234.109.118 1 1 86939 20210826065932
+54.185.174.184 1 1 86767 20210831122419
+52.33.137.137 1 1 86939 20210809123012
+54.69.252.88 1 1 86767 20210830122630
+66.211.229.28 1 1 87084 20210809150313
+54.189.61.116 1 1 86939 20210810123022
+40.77.189.82 0 1 2504882 
+34.220.14.237 1 1 86939 20210806123638
+34.220.205.174 1 1 86939 20210812123748
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 29
+20210801 12 12 5590268 3
+20210802 1 1 86938 1
+20210803 2 2 173876 2
+20210804 4 4 5357895 4
+20210805 2 2 173878 2
+20210806 2 2 173878 2
+20210807 6 6 521750 5
+20210808 1 1 86939 1
+20210809 3 3 261078 3
+20210810 3 5 445363 3
+20210811 12 12 10686541 3
+20210812 1 1 86939 1
+20210814 1 1 86939 1
+20210815 4 6 354244 3
+20210816 2 3 177122 2
+20210817 4 5 351000 4
+20210819 3 3 173878 3
+20210820 3 3 260817 3
+20210821 2 2 173878 2
+20210822 2 2 173878 2
+20210823 1 1 86939 1
+20210824 4 6 680028 4
+20210825 3 4 262095 3
+20210826 3 3 260817 3
+20210827 21 23 1022391 6
+20210828 11 79 38800833 3
+20210829 2 2 86939 2
+20210830 3 4 263545 3
+20210831 16 104 45888001 3
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 2
+30s-2mn 2
+0s-30s 76
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 24
+/ 85 7040079 78 74
+/localizacao 4 70344 0 0
+/apartamento/3 3 144408 0 0
+/apartamento/6 3 144312 0 1
+/apartamento/2 3 144084 0 0
+/apartamento/1 3 144267 0 0
+/apartamento/4 3 144324 0 0
+/apartamento/5 3 144402 0 0
+/font/Fontes/segoeuiRegular.ttf 2 1911608 0 1
+/font/Fontes/Georgia%20Bold.ttf 2 727600 0 0
+/font/Fontes/ProximaNova-Regular.otf 2 189336 0 0
+/noticia/11 2 29624 0 0
+/noticia/8 2 26144 0 0
+/font/Fontes/proxima-nova-semibold.otf 2 126232 0 0
+/font/Fontes/segoeuiLightItalic.ttf 2 919880 0 0
+/font/Fontes/proxima-nova-light.otf 2 125936 0 0
+/noticia/14 2 30232 0 1
+/font/Fontes/segoeuiLight.ttf 2 1827424 0 0
+/font/Fontes/ProximaNovaBold.otf 2 193280 0 0
+/font/Fontes/Georgia.ttf 1 379588 0 0
+/noticia/1 1 15616 0 0
+/noticia/13 1 15116 0 0
+/noticia/9 1 12799 0 1
+/noticia/12 1 14614 0 0
+END_SIDER
